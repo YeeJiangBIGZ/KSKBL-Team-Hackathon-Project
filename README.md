@@ -15,7 +15,7 @@ https://studio.code.org/projects/applab/b780bee9-d4f9-4703-90ff-c3accfe59b10
 
 ## Demo Video
 
-
+https://drive.google.com/file/d/1Xm1q_hYs4SEq6eMEMCdN_4s0zV62ksLd/view?usp=share_link
 
 ## Technologies Used
 
@@ -73,7 +73,7 @@ Main data columns include:
 
 ## AI Use Statement
 
-AI tools were used for brainstorming, planning, and code assistance. The project design, App Lab implementation, screen building, testing, debugging, and final decisions were completed by the student. AI assistance was kept under 30% of the total project work.
+AI tools were used for brainstorming and planning. The project design, App Lab implementation, screen building, testing, debugging, and final decisions were completed by the student. AI assistance was kept under 30% of the total project work.
 
 ## Originality Statement
 
